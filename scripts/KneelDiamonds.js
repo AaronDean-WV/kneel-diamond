@@ -35,9 +35,9 @@ export const KneelDiamonds= () => {
                 ${JewelryStyles()}
             </section>
         </article>
-            <section class="choices_types options">
+             <article class="types">
             ${jewelryTypes()}
-            </section> 
+            </article>  
         <article>
             <button id="orderButton">Create Custom Order</button>
         </article>

@@ -35,7 +35,7 @@ let totalCost = foundMetal.price + foundSize.price + foundStyle.price
 
 if (foundType.id === 2) {
    totalCost = totalCost * 2
-} else if (foundType.id===3) {
+} else if (foundType.id === 3) {
    totalCost = totalCost * 4
 }
 
